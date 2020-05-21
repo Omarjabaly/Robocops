@@ -1,0 +1,6 @@
+@font-face { font-family: Chopsic-K6Dp; 
+			 src: url('./Chopsic-K6Dp.ttf'); } 
+h3{
+	font-family: Chopsic-K6Dp;
+	color: midnightblue;
+}
