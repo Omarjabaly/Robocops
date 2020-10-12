@@ -1,9 +1,7 @@
 import React from 'react';
 
-const Card = ({robot}) => {
+const Card = ({ id, name, email }) => {
 
-	
-	const { name, email, id } = robot;
 	
 	return (
 
