@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/Robocops/static/css/main.d281c307.chunk.css",
-    "main.js": "/Robocops/static/js/main.dc017c8a.chunk.js",
-    "main.js.map": "/Robocops/static/js/main.dc017c8a.chunk.js.map",
-    "runtime-main.js": "/Robocops/static/js/runtime-main.56d418bc.js",
-    "runtime-main.js.map": "/Robocops/static/js/runtime-main.56d418bc.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Robocops/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.4b8a2684.chunk.js": "/Robocops/static/js/2.4b8a2684.chunk.js",
-    "static/js/2.4b8a2684.chunk.js.map": "/Robocops/static/js/2.4b8a2684.chunk.js.map",
+    "main.css": "/Robocops/static/css/main.550c4170.chunk.css",
+    "main.js": "/Robocops/static/js/main.e6cbc4ef.chunk.js",
+    "main.js.map": "/Robocops/static/js/main.e6cbc4ef.chunk.js.map",
+    "runtime-main.js": "/Robocops/static/js/runtime-main.69f2a717.js",
+    "runtime-main.js.map": "/Robocops/static/js/runtime-main.69f2a717.js.map",
+    "static/css/2.b97b5188.chunk.css": "/Robocops/static/css/2.b97b5188.chunk.css",
+    "static/js/2.07d28e70.chunk.js": "/Robocops/static/js/2.07d28e70.chunk.js",
+    "static/js/2.07d28e70.chunk.js.map": "/Robocops/static/js/2.07d28e70.chunk.js.map",
     "index.html": "/Robocops/index.html",
-    "precache-manifest.ea289dacc81498ce0a39636d98d1556e.js": "/Robocops/precache-manifest.ea289dacc81498ce0a39636d98d1556e.js",
-    "service-worker.js": "/Robocops/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Robocops/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.d281c307.chunk.css.map": "/Robocops/static/css/main.d281c307.chunk.css.map",
-    "static/js/2.4b8a2684.chunk.js.LICENSE.txt": "/Robocops/static/js/2.4b8a2684.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Robocops/static/media/Chopsic-K6Dp.603a56d0.ttf"
+    "static/css/2.b97b5188.chunk.css.map": "/Robocops/static/css/2.b97b5188.chunk.css.map",
+    "static/css/main.550c4170.chunk.css.map": "/Robocops/static/css/main.550c4170.chunk.css.map",
+    "static/js/2.07d28e70.chunk.js.LICENSE.txt": "/Robocops/static/js/2.07d28e70.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robocops/static/media/Chopsic-K6Dp.afa6fa67.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.56d418bc.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.4b8a2684.chunk.js",
-    "static/css/main.d281c307.chunk.css",
-    "static/js/main.dc017c8a.chunk.js"
+    "static/js/runtime-main.69f2a717.js",
+    "static/css/2.b97b5188.chunk.css",
+    "static/js/2.07d28e70.chunk.js",
+    "static/css/main.550c4170.chunk.css",
+    "static/js/main.e6cbc4ef.chunk.js"
   ]
 }
